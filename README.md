@@ -22,12 +22,3 @@ IDS-Module used RandomForestClassifier
 1. клонируйте репозиторий
 2. Создайте переменную вреду
 3. Загрузите все зависимости из файла requirements.txt
-
-## Архитектура проекта
-'''
-IDS-Module/
-├── client/                # Клиентская часть
-├── server/                # Серверная часть
-├── LICENSE
-└── README.md
-'''
