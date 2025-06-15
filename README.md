@@ -18,6 +18,20 @@ IDS-Module used RandomForestClassifier
 - Сетевые технологии: Fast-api, uvicorn, Pedantic
 - Другие ключевые технологии: все основные зависимости доступны в файле requirements.txt
 
+### Server:
+- Язык программирования: Python
+- Сетевые технологии и библиотеки: Fast-api, uvicorn, Pedantic, Pandas, NumPy
+- Другие ключевые технологии: все основные зависимости доступны в файле Server/requirements.txt
+
+### Client:
+- Язык программирования: Python
+- Основные библиотеки и фреймворки: Pandas, NumPy, PyQt6
+- Другие ключевые технологии: все основные зависимости доступны в файле Client/requirements.txt
+
+### Building_model:
+- Язык программирования: Python
+- Основные библиотеки и фреймворки: scikit-learn, Pandas, NumPy и т.д.
+
 ## ⚙️ Установка и запуск
 1. клонируйте репозиторий
 2. Создайте переменную вреду
